@@ -1,0 +1,94 @@
+/*Untuk Tablets*/
+
+@media (max-width: 1000px) {
+    .container {
+        width: 100%;
+        margin:auto;
+    }
+    .top-wrapper h1 {
+        font-size: 45px;
+        text-align: center;
+    }
+    .top-wrapper h2 {
+        font-size: 35px;
+        text-align: center;
+    }
+    .top-wrapper p {
+        font-size: 15px;
+        text-align: center;
+    }
+    .smartphones{
+        padding-top : 100px;
+         margin-left: 35%;
+    }
+    .smartphone-icon1 img {
+        height: 150px;
+    }
+
+    .smartphone-icon2 img {
+        align: middle;
+        width: 150px;
+    }
+
+    .smartphone-icon3 img {
+        align: middle;
+        width: 150px;
+        margin: 10px;
+        padding: 10px;
+        padding-top: 40px;
+        padding-bottom: 20px;
+        margin-left: 50px;
+    }
+
+    .smartphone-icon4 img {
+        align: middle;
+        width: 200px;
+        margin: 10px;
+    }
+}
+
+
+/*Untuk Smartphones*/
+
+@media (max-width: 670px) {
+    .container {
+        width: 100%;
+    }
+    .top-wrapper h1 {
+        font-size: 45px;
+        text-align: center;
+    }
+    .top-wrapper h2 {
+        font-size: 35px;
+        text-align: center;
+    }
+    .top-wrapper p {
+        font-size: 15px;
+        text-align: center;
+    }
+    .smartphone-icon1 img {
+        align: middle;
+        height: 150px;
+    }
+
+    .smartphone-icon2 img {
+        align: middle;
+        width: 150px;
+    }
+
+    .smartphone-icon3 img {
+        align: middle;
+        width: 150px;
+        margin: 10px;
+        padding: 10px;
+        padding-top: 40px;
+        padding-bottom: 20px;
+        margin-left: 50px;
+    }
+
+    .smartphone-icon4 img {
+        align: middle;
+        width: 200px;
+        margin: 10px;
+    }
+}
